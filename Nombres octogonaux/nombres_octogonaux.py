@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 limiteMin=int(input())
 limiteMax=int(input())
 n=0
